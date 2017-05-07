@@ -339,13 +339,13 @@ section.section {
 ============================= */
 
 #parallax1{	
-	background-image: url(../img/parallax/img1.jpg);
+	background-image: url(https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/greybackground.png);
 }
 #parallax2{	
-	background-image: url(../img/parallax/img2.jpg);
+	background-image: url(https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/greybackground.png);
 }
 #testimonials{	
-	background-image: url(../img/parallax/img3.jpg);
+	background-image: url(https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/greybackground.png);
 }
 /*===========================
   --- Header & menu ----
