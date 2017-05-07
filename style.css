@@ -8,10 +8,10 @@
 /* ==== Google font ==== */
 link href 'https://fonts.googleapis.com/css?family=Lato:400,300,700,900'
 /* === fontawesome === */
-link href 'https://github.com/marissa71/littleaussie/blob/master/font-awesome.css'
+link href 'https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/font-awesome.css'
 /* ==== overwrite bootstrap standard ==== */
-link href 'https://github.com/marissa71/littleaussie/blob/master/overwrite.css';
-link href 'https://github.com/marissa71/littleaussie/blob/master/animate.css';
+link href 'https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/overwrite.css';
+link href 'https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/animate.css';
 /*==========================================================================
   General
   ========================================================================== */
