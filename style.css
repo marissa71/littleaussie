@@ -278,7 +278,7 @@ a:hover {
 .mar-top40 {
 	margin-top: 40px;
 }
-
+6
 
 /* bottom */
 .mar-bot0 {
@@ -288,8 +288,7 @@ a:hover {
 	margin-bottom: 5px;
 }
 
-.mar-bot10 {
-	margin-bottom: 10px;
+.mar-bot10 {	margin-bottom: 10px;
 }
 
 .mar-bot15 {
@@ -318,7 +317,7 @@ a:hover {
 
 section.section {
 	margin:0;
-	padding: 80px 0 60px 0;
+	padding: 60px 0 60px 0;
 }
 
 .bg-white {
