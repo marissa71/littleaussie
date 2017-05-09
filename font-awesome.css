@@ -6,8 +6,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/fontawesome-webfont.eot?v=4.0.3');
-  src: url('https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/fontawesome-webfont.woff?v=4.0.3') format('woff'), url('https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('https://cdn.rawgit.com/marissa71/littleaussie/2dae5580/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
+  src: url('https://rawgit.com/marissa71/littleaussie/master/fontawesome-webfont.eot?v=4.0.3');
+  src: url('https://rawgit.com/marissa71/littleaussie/master/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('https://rawgit.com/marissa71/littleaussie/master/fontawesome-webfont.woff?v=4.0.3') format('woff'), url('https://rawgit.com/marissa71/littleaussie/master/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('https://rawgit.com/marissa71/littleaussie/master/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
