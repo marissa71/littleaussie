@@ -395,7 +395,14 @@ section.featured.inner {
 	background: #eee;
 	padding: 150px 0 50px;
 }
-  
+
+section.orange{
+	padding: 20px 0 02px;
+	background-color: #fc4aia;
+	background-width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
   
 /* --- Flexslider --- */
 .flexslider {
