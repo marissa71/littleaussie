@@ -147,7 +147,29 @@ a:hover {
 	padding-top: 25px;
 }
 
+.orange-bg {
+	background-color: #fc4AIA
+}
 
+.fresh-bg {
+	background-color: #4abdac
+}
+
+.grey-bg {
+	background-color: #dfdce3
+}
+
+.yellow-bg {
+	background-colour: #f7b733
+}
+
+.crimson-bg {
+	background-colour: #dde
+}
+
+.lightblue-bg {
+	background-colour: #3bd
+}
 
 /* --- float --- */
 .float-left {
