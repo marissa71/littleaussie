@@ -38,7 +38,7 @@ h1,h2,h3,h4,h5,h6 {
 	font-style: normal;
 	margin: 0 0 20px 0;
 }
-h1 { font-size: 40px; line-height: 30px; }
+h1 { font-size: 48px; line-height: 50px; }
 h2 { font-size: 32px; }
 h3 { font-size: 24px; }
 h4 { font-size: 18px; }
@@ -169,11 +169,11 @@ a:hover {
 }
 
 .crimson-bg {
-	background-colour: #dde
+	background-colour: #cd3e3a
 }
 
 .lightblue-bg {
-	background-colour: #3bd
+	background-colour: #d4f3f8
 }
 
 /* --- float --- */
@@ -385,7 +385,7 @@ section.featured {
 }
 
 section.featured h2.slogan {
-	color: #222;
+	color: #777;
 	font-size: 40px;
 	font-weight: 900;
 }
