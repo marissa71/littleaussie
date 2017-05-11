@@ -8,10 +8,9 @@
 /* ==== Google font ==== */
 link href 'https://fonts.googleapis.com/css?family=Lato:400,300,700,900'
 /* === fontawesome === */
-link href 'https://rawgit.com/marissa71/littleaussie/master/font-awesome.css'
+link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'
 /* ==== overwrite bootstrap standard ==== */
-link href 'https://rawgit.com/marissa71/littleaussie/master/overwrite.css';
-link href 'https://rawgit.com/marissa71/littleaussie/master/animate.css';
+
 /*==========================================================================
   General
   ========================================================================== */
@@ -379,7 +378,6 @@ section.section {
 	vertical-align: middle;
 	color: #fff;
 	font-weight: 700;
-	font-size: 13px;
 	letter-spacing: .1em;
 	text-transform: uppercase;
 }
@@ -437,7 +435,7 @@ h1 a.navbar-brand {
 =========================== */
 
 section.featured {
-	padding: 150px 0 20px;
+	padding: 150px 0 80px;
 	background-image: url(http://www.littleaussie.com.au/img/landing/glass-services/jumbotron_1400x500.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -445,7 +443,7 @@ section.featured {
 }
 
 section.featured h2.slogan {
-	color: #fff;
+	color: #777;
 	font-size: 40px;
 	font-weight: 900;
 }
