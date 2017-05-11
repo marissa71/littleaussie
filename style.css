@@ -963,7 +963,21 @@ a.socialIcon:hover, .socialHoverClass {
 	border-bottom: 4px solid;
 }
 
+/* menu */
+a {
+	color: #35A49C;
+}
+a:hover {
+	color: #79CDC0;
+}
 
+.nav>li>a:hover {
+	color: #79CDC0;
+}
+
+.navbar .navbar-nav > .active > a {
+	color: #79CDC0;
+}
 
 /* ========================================
 Media queries
