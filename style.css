@@ -346,91 +346,6 @@ section.section {
 	background-image: url(https://rawgit.com/marissa71/littleaussie/master/greybackground.png);
 }
 /*===========================
-  --- Header & menu ----
-=========================== */
-.navbar {
-	line-height: 100px;
-	height: 100px;
-	background-color: rgba(0,0,0,0.3);
-	display: block;
-	vertical-align: middle;
-	text-align: center;
-	margin-bottom: 0;
-	padding-bottom:0;
-}
-
-.navbar .navbar-collapse {
-	margin-bottom: 0;
-	padding-bottom:0;
-}
-
-.nav li {
-	height: 100%;
-	line-height: 100%;
-	margin-bottom: 0;
-	padding-bottom:0;
-}
-
-.nav>li>a {
-	display: table-cell;
-	height: 100%;
-	line-height: 100%;
-	vertical-align: middle;
-	color: #fff;
-	font-weight: 700;
-	letter-spacing: .1em;
-	text-transform: uppercase;
-}
-
-.nav>li>a:hover {
-	color: #fff;
-	background: none;
-}
-
-.navbar-nav {
-	float: right;
-	margin-bottom: 0;
-	padding-bottom:0;	
-}
-
-.navbar .navbar-nav > .active > a {
-	color: #fff;
-}
-.navbar .navbar-nav > .active > a {
-	padding-bottom: 22px;
-}
-
-h1 a.navbar-brand {
-	font-size: 24px;
-	color: #fff;
-	font-weight: 900;
-	text-shadow: none;
-}
-
-.navbar-brand {
-	padding: 0;
-	display: table-cell;
-	vertical-align: middle;
-	line-height: 90px;
-}
-
-.navbar-brand img {
-	vertical-align: middle;
-}
-
-.navbar-toggle {
-	padding: 0;
-	margin: 0;
-	width: 80px;
-}
-
-.navbar-collapse.in {
-	margin-top: -5px !important;
-}
-
-
-
-/*===========================
   --- Featured section ----
 =========================== */
 
@@ -443,7 +358,7 @@ section.featured {
 }
 
 section.featured h2.slogan {
-	color: #777;
+	color: #222;
 	font-size: 40px;
 	font-weight: 900;
 }
@@ -1053,26 +968,6 @@ a.socialIcon:hover, .socialHoverClass {
 /* ========================================
 Media queries
 ========================================= */
-@media (min-width: 959px) and (max-width: 1199px) {
-	.navbar-nav {
-		margin-top: 20px;
-	}
-}
-
-@media only screen and (min-device-width : 979px) and (max-device-width : 1024px)  {
-
-	.navbar-nav {
-		margin-top: 20px;
-	}
-}
-
-
-@media only screen and (min-width: 768px) and (max-width: 959px) {
-
-	.navbar-nav {
-		margin-top: 20px;
-	}
-}
 @media (max-width: 767px) {
 
 	.navbar.navbar-fixed-top {
@@ -1089,7 +984,7 @@ Media queries
 		border-bottom: 1px solid #666;
 	}
 	section.featured {
-		padding-top: 80px;
+		padding-top: 50px;
 	}
 	
 	.team-member,.col-lg-4 {
