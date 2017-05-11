@@ -8,9 +8,9 @@
 /* ==== Google font ==== */
 link href 'https://fonts.googleapis.com/css?family=Lato:400,300,700,900'
 /* === fontawesome === */
-link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'
+link href='https://rawgit.com/marissa71/littleaussie/master/font-awesome.css'
 /* ==== overwrite bootstrap standard ==== */
-
+<link href="https://rawgit.com/marissa71/littleaussie/master/overwrite.css" />
 /*==========================================================================
   General
   ========================================================================== */
