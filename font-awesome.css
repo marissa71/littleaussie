@@ -1336,3 +1336,8 @@
 .fa-plus-square-o:before {
   content: "\f196";
 }
+
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('https://rawgit.com/Mobirise/Free-Bootstrap-Template/master/assets/bootstrap/fonts/glyphicons-halflings-regular.eot');
+    src: url(https://rawgit.com/Mobirise/Free-Bootstrap-Template/master/assets/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://rawgit.com/Mobirise/Free-Bootstrap-Template/master/assets/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://rawgit.com/Mobirise/Free-Bootstrap-Template/master/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://rawgit.com/Mobirise/Free-Bootstrap-Template/master/assets/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
