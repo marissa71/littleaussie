@@ -344,4 +344,27 @@
   -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05), 0 1px 0 rgba(255, 255, 255, .1);
           box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05), 0 1px 0 rgba(255, 255, 255, .1);
 }
+
+.panel-horizontal {
+    display:table;
+    width:100%;
+}
+.panel-horizontal > .panel-heading, .panel.panel-horizontal > .panel-body, .panel.panel-horizontal > .panel-footer {
+    display:table-cell;
+}
+.panel-horizontal > .panel-heading, .panel.panel-horizontal > .panel-footer {
+    width: 25%;
+    border:0;
+    vertical-align: middle;
+}
+.panel-horizontal > .panel-heading {
+    border-right: 1px solid #ddd;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 4px;
+}
+.panel-horizontal > .panel-footer {
+    border-left: 1px solid #ddd;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 4px;
+}
 /*# sourceMappingURL=bootstrap-theme.css.map */
