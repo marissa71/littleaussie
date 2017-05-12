@@ -42,6 +42,7 @@ h2 { font-size: 32px; }
 h3 { font-size: 24px; }
 h4 { font-size: 18px; }
 h5 { font-size: 16px; color:#777; font-weight: 600; }
+h5 { font-size: 16px; color:#777; font-weight: 500; }
 .txt-light { font-weight: 300; }
 .txt-regular { font-weight: 400; }
 .txt-bold { font-weight: 700; }
@@ -396,14 +397,14 @@ section.featured {
 	color: #fdfdfd;
 }
 
-section.featured h2.slogan {
+section.h2.slogan {
 	color: #777;
-	font-size: 40px;
-	font-weight: 900;
+	font-size: 28px;
+	font-weight: 600;
 }
   
  /* inner heading */
-section.featured.h1 {
+section.h1 {
 	font-size: 60px;
 	font-weight: 900;
 	padding: 10px 0 10px 100px;
