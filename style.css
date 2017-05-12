@@ -151,8 +151,12 @@ a:hover {
 	padding-top: 25px;
 }
 
-section.orange-bg {
+.orange-bg {
 	background-color: #fc4AIA
+}
+
+.white-bg {
+	background-color: #ffffff
 }
 
 .fresh-bg {
