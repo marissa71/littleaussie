@@ -16,7 +16,6 @@ link href='https://rawgit.com/marissa71/littleaussie/master/font-awesome.css'
   ========================================================================== */
 body {
 	color:#777;
-	background: #f7f7f7;
 	font-size: 16px;
 	line-height: 1.6em;
 	font-weight: 300;
@@ -38,11 +37,11 @@ h2,h3,h4,h5,h6 {
 	font-style: normal;
 	margin: 0 0 20px 0;
 }
-h1 { font-size: 65px; line-height: 70px; font-weight: 700; color:#777}
+h1 { font-size: 65px; line-height: 70px; font-weight: 800; color:#777}
 h2 { font-size: 32px; }
 h3 { font-size: 24px; }
 h4 { font-size: 18px; }
-h5 { font-size: 16px; }
+h5 { font-size: 16px; color:#777; font-weight: 600; }
 .txt-light { font-weight: 300; }
 .txt-regular { font-weight: 400; }
 .txt-bold { font-weight: 700; }
@@ -152,7 +151,7 @@ a:hover {
 	padding-top: 25px;
 }
 
-.orange-bg {
+section.orange-bg {
 	background-color: #fc4AIA
 }
 
@@ -380,8 +379,7 @@ section.background {
 	background-image: url(http://www.littleaussie.com.au/img/landing/glass-services/jumbotron_1400x500.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: #fdfdfd;
-}
+	}
 
 section.featured {
 	padding: 150px 0 80px;
@@ -405,8 +403,7 @@ section.featured.inner {
 
 section.orange{
 	padding: 20px 0 02px;
-	background-color: #fc4aia;
-	background-width: 100%;
+	background-color: #ce3d3a;
 	background-size: cover;
 	background-repeat: no-repeat;
 	}
