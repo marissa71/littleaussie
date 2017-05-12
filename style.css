@@ -37,7 +37,7 @@ h2,h3,h4,h5,h6 {
 	font-style: normal;
 	margin: 0 0 20px 0;
 }
-h1 { font-size: 65px; line-height: 70px; font-weight: 800; color:#777}
+h1 { font-size: 65px; line-height: 70px; font-weight: 800; color:#777;}
 h2 { font-size: 32px; }
 h3 { font-size: 24px; }
 h4 { font-size: 18px; }
@@ -315,7 +315,6 @@ a:hover {
 .mar-top40 {
 	margin-top: 40px;
 }
-6
 
 /* bottom */
 .mar-bot0 {
@@ -364,10 +363,6 @@ section.section {
 /* --- section heading --- */
 .section-header {
 	text-align: center;
-}
-.section-header h2.section-heading {
-	text-transform: uppercase;
-	font-weight: 700;
 }
 
 /* ==========================
