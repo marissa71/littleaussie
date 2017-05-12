@@ -381,7 +381,7 @@ section.section {
 /*===========================
   --- Featured section ----
 =========================== */
-section.background {
+#background {
 	padding: 150px 0 80px;
 	background-image: url(http://www.littleaussie.com.au/img/landing/glass-services/jumbotron_1400x500.jpg);
 	background-size: cover;
