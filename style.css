@@ -403,9 +403,10 @@ section.featured h2.slogan {
 }
   
  /* inner heading */
-section.featured.inner {
-	background: #eee;
-	padding: 150px 0 50px;
+section.featured.h1 {
+	font-size: 60px;
+	font-weight: 900;
+	padding: 10px 0 10px 100px;
 }
 
 section.orange{
