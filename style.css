@@ -6,9 +6,9 @@
 */
 
 /* ==== Google font ==== */
-link href 'https://fonts.googleapis.com/css?family=Lato:400,300,700,900'
+<link href="https://fonts.googleapis.com/css?family=Lato:400,300,700,900"/>
 /* === fontawesome === */
-link href='https://rawgit.com/marissa71/littleaussie/master/font-awesome.css'
+link href="https://rawgit.com/marissa71/littleaussie/master/font-awesome.css"/>
 /* ==== overwrite bootstrap standard ==== */
 <link href="https://rawgit.com/marissa71/littleaussie/master/overwrite.css" />
 /*==========================================================================
@@ -17,7 +17,7 @@ link href='https://rawgit.com/marissa71/littleaussie/master/font-awesome.css'
 p, body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'Lato', sans-serif;
 }
-h4, h5, h6 {
+h4, h5, {
 	color:#484848;
 }
 
@@ -29,6 +29,7 @@ h2 { font-size: 32px; text-transform: uppercase; line-height:1.3em; font-weight:
 h3 { font-size: 28px; text-align: center; color:#35a49c;}
 h4 { font-size: 18px; text-align: center; font-weight: 600;}
 h5 { font-size: 16px; }
+h6 { font-size: 16px; color: #fff; text-transform: uppercase; font-weight: 500;}
 .txt-light { font-weight: 300; }
 .txt-regular { font-weight: 400; }
 .txt-bold { font-weight: 700; }
@@ -38,7 +39,7 @@ body {
 	color:#777;
 	font-size: 16px;
 	line-height: 1.6em;
-	font-weight: 300;
+	font-weight: 400;
 	text-shadow: none;
 }
 
@@ -582,7 +583,6 @@ section.featured.inner {
 /*==========================
 About
 =========================== */
-
 .member-photo {
 	-webkit-border-radius:50%;
 		-moz-border-radius:50%;
