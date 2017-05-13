@@ -580,8 +580,7 @@ About
 	box-sizing:border-box;
 	-webkit-border-radius:50%;
 		-moz-border-radius:50%;
-			border-radius:50%;	
-	margin: 0 0 20px 0;
+			border-radius:50%;
 	}
 .member-photo img {
 	-webkit-border-radius:50%;
@@ -595,7 +594,7 @@ About
 	text-align: center;
 }
 .team-detail p {
-	text-align:centre;
+	text-align:center;
 }
 .panel-body h6 {
 	font-weight: 600;
