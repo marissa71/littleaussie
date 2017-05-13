@@ -405,14 +405,13 @@ section.h1 {
 	background-repeat: no-repeat;
 }
 
-section.featured {
+.featured {
 	padding: 150px 0 80px;
 	background-image: url(https://rawgit.com/littleaussie/marissa71/master/jumbotron_1400x500.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
-
-section.featured h2.slogan {
+.featured h2.slogan {
 	color: #777;
 	font-size: 40px;
 	font-weight: 900;
@@ -424,13 +423,6 @@ section.featured.inner {
 	padding: 150px 0 50px;
 }
 
-section.orange{
-	padding: 20px 0 02px;
-	background-color: #fc4aia;
-	background-width: 100%;
-	background-size: cover;
-	background-repeat: no-repeat;
-	}
   
 /* --- Flexslider --- */
 .flexslider {
