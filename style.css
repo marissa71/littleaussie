@@ -197,6 +197,15 @@ a:hover {
 	background-color: #d4f3f8
 }
 
+.lightlightblue-bg {
+	background-color: #cfcfff
+}
+.lightlightgreen-bg {
+	background-color: #b1cbe1
+}
+.lightlight {
+	background-color: #c0c0f0
+}
 /* --- float --- */
 .float-left {
 	float: left;
@@ -569,7 +578,6 @@ About
 =========================== */
 
 .member-photo {
-	box-sizing:border-box;
 	-webkit-border-radius:50%;
 		-moz-border-radius:50%;
 			border-radius:50%;
