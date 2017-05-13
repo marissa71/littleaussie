@@ -409,14 +409,20 @@ section.h1 {
 =========================== */
 .background {
 	padding: 150px 0 80px;
-	background-image: url(http://www.littleaussie.com.au/img/landing/glass-services/jumbotron_1400x500.jpg);
+	background-image: url('http://www.littleaussie.com.au/img/landing/glass-services/jumbotron_1400x500.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
-
+.bg {
+	background: url('http://www.littleaussie.com.au/img/landing/glass-services/jumbotron_1400x500.jpg');
+	background-repeat: no-repeat;
+	background-position: top;
+        background-size: contain;
+        height: 500px;  
+}
 .featured {
 	padding: 150px 0 80px;
-	background-image: url(http://www.littleaussie.com.au/img/landing/glass-services/jumbotron_1400x500.jpg);
+	background-image: url('http://www.littleaussie.com.au/img/landing/glass-services/jumbotron_1400x500.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
