@@ -6,9 +6,9 @@
 */
 
 /* ==== Google font ==== */
-link href 'https://fonts.googleapis.com/css?family=Lato:400,300,700,900'
+<link href="https://fonts.googleapis.com/css?family=Lato:400,300,700,900"/>
 /* === fontawesome === */
-link href='https://rawgit.com/marissa71/littleaussie/master/font-awesome.css'
+<link href="https://rawgit.com/marissa71/littleaussie/master/font-awesome.css"/>
 /* ==== overwrite bootstrap standard ==== */
 <link href="https://rawgit.com/marissa71/littleaussie/master/overwrite.css" />
 /*==========================================================================
@@ -172,7 +172,7 @@ a:hover {
 
 .white-bg {
 	background-color: #ffffff
-	
+}
 .salmon-bg {
 	background-color: #ffaa96
 }
@@ -407,10 +407,9 @@ section.h1 {
 
 section.featured {
 	padding: 150px 0 80px;
-	background-image: url(https://rawgit.com/marissa71/littleaussie/master/Broken-Glass-1920x1200webblur.jpg);
+	background-image: url('https://rawgit.com/marissa71/littleaussie/master/Broken-Glass-1920x1200webblur.jpg');
 	background-size: 100%;
 	background-repeat: no-repeat;
-	color: #fdfdfd;
 }
 
 section.featured h2.slogan {
@@ -428,7 +427,6 @@ section.featured.inner {
 section.orange{
 	padding: 20px 0 02px;
 	background-color: #fc4aia;
-	background-width: 100%;
 	background-size: cover;
 	background-repeat: no-repeat;
 	}
