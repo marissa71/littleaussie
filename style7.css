@@ -6,9 +6,9 @@
 */
 
 /* ==== Google font ==== */
-link href 'https://fonts.googleapis.com/css?family=Lato:400,300,700,900'
+<link href="https://fonts.googleapis.com/css?family=Lato:400,300,700,900"/>
 /* === fontawesome === */
-link href='https://rawgit.com/marissa71/littleaussie/master/font-awesome.css'
+<link href="https://rawgit.com/marissa71/littleaussie/master/font-awesome.css"/>
 /* ==== overwrite bootstrap standard ==== */
 <link href="https://rawgit.com/marissa71/littleaussie/master/overwrite.css" />
 /*==========================================================================
@@ -172,7 +172,7 @@ a:hover {
 
 .white-bg {
 	background-color: #ffffff
-	
+}	
 .salmon-bg {
 	background-color: #ffaa96
 }
@@ -407,8 +407,8 @@ section.h1 {
 
 section.featured {
 	padding: 150px 0 80px;
-	background-image: url(https://rawgit.com/marissa71/littleaussie/master/maxresdefault.jpg);
-	background-size: 100%;
+	background-image: url('https://rawgit.com/marissa71/littleaussie/master/maxresdefault.jpg');
+	background-size: cover;
 	background-repeat: no-repeat;
 	color: #fdfdfd;
 }
