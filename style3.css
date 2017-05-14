@@ -407,8 +407,8 @@ section.h1 {
 
 section.featured {
 	padding: 150px 0 80px;
-	background-image: url('https://rawgit.com/marissa71/littleaussie/master/maxresdefault.jpg');
-	background-size: 100%;
+	background-image: url('https://rawgit.com/marissa71/littleaussie/master/maxresdefault2.jpg');
+	background-size: cover;
 	background-repeat: no-repeat;
 	color: #fdfdfd;
 }
