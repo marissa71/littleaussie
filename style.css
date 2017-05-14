@@ -514,7 +514,7 @@ section.h1 {
     height: 500px;
 }
 .featured {
-    padding: 100px 0 80px;
+    padding: 80px 0 80px;
     background-image: url('http://www.littleaussie.com.au/img/landing/glass-services/jumbotron_1400x500.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -668,15 +668,13 @@ About
 }
 .team-detail h4 {
     font-weight: 600;
-    color: #777;
+    color: #2f4f4f;
     text-align: center;
-}
-.team-detail p {
-    text-align: center;
+    margin-bottom: 30px;
 }
 .panel-body h6 {
     font-weight: 600;
-    color: #fff;
+    color: #2f4f4f;
     text-align: right;
 }
 /*===========================
