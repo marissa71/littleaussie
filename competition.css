@@ -1,0 +1,336 @@
+body {
+    font-size: 16px;
+    padding-bottom: 40px
+}
+#competition .competition {
+    border: 1px solid #0d6b63;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    font-size: 16px;
+    background-color: #f3f7f7
+}
+#competition .competition header {
+    background-color: #0d6b63;
+    border-radius: 10px 10px 0 0;
+    -webkit-border-radius: 10px 10px 0 0;
+    -moz-border-radius: 10px 10px 0 0;
+    -ms-border-radius: 10px 10px 0 0;
+    -o-border-radius: 10px 10px 0 0;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #0d6b63;
+    height: 85px;
+    padding: 15px
+}
+#competition .competition header h1 {
+    font-weight: 300;
+    font-size: 40px;
+    color: #fff;
+    line-height: 1.2
+}
+#competition nav {
+    min-height: 0;
+    margin-bottom: 1em;
+    background-color: #e4eded
+}
+#competition nav .navbar-brand {
+    margin-top: 5px
+}
+#competition nav button {
+    margin: 10px 2px 0;
+    background-color: transparent
+}
+#competition nav a {
+    padding: 10px
+}
+#competition nav a:focus,
+#competition nav a:hover {
+    background-color: #c2dad8
+}
+#competition .sub-menu {
+    background-color: #f3f7f7
+}
+#competition section {
+    padding: 1em 2em 2em
+}
+#competition section h1 {
+    font-size: 28px;
+    line-height: 31px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-weight: 600;
+    color: #0a564f
+}
+#competition section h2 {
+    font-size: 25px;
+    color: #0a564f;
+    margin-bottom: 15px;
+    margin-top: 10px
+}
+#competition section h3 {
+    font-size: 1em;
+    font-weight: 600;
+    margin-bottom: 1em
+}
+#competition section hr {
+    border: 1px solid #86b5b1
+}
+#competition .jumbotron,
+#competition .jumbotron250,
+#competition .jumbotron500Coles {
+    border-width: 2;
+    border-style: solid;
+    border-color: #86b5b1;
+    height: 220px;
+    margin-bottom: 0;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+#competition .jumbotron {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    background-image: url(/img/directories/competitions/ipad.jpg)
+}
+#competition .jumbotron250 {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    background-image: url(/img/directories/competitions/250-coles-myer.jpg)
+}
+#competition .jumbotron500Coles {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    background-image: url(/img/directories/competitions/500-coles-myer.jpg)
+}
+#competition .jumbotronbenara {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    border-width: 2;
+    border-style: solid;
+    border-color: #86b5b1;
+    height: 220px;
+    margin-bottom: 0;
+    background-image: url(/img/directories/competitions/benara-fresh-comp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+#competition .jumbotronJB500,
+#competition .jumbotronnespresso {
+    border-radius: 10px;
+    border-width: 2;
+    border-style: solid;
+    border-color: #86b5b1;
+    height: 220px;
+    margin-bottom: 0;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+#competition .jumbotronJB500 {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    background-image: url(/img/directories/competitions/jb-500-comp.jpg)
+}
+#competition .jumbotronnespresso {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    background-image: url(/img/directories/competitions/nespresso.jpg);
+    background-color: #FFF
+}
+#competition .jumbotronmystery {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    border-width: 2;
+    border-style: solid;
+    border-color: #86b5b1;
+    height: 220px;
+    margin-bottom: 0;
+    background-image: url(/img/directories/competitions/mystery-photo-aug15-comp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+#competition .jumbotrongopro {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    border-width: 2;
+    border-style: solid;
+    border-color: #86b5b1;
+    height: 220px;
+    margin-bottom: 0;
+    background-image: url(/img/directories/competitions/gopro-ipadmini-standalone.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+#competition .jumbotronkitchenaid,
+#competition .jumbotronweberq {
+    border-radius: 10px;
+    border-width: 2;
+    border-style: solid;
+    border-color: #86b5b1;
+    height: 220px;
+    margin-bottom: 0;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+#competition .jumbotronkitchenaid {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    background-image: url(/img/directories/competitions/kitchenaid.jpg)
+}
+#competition .jumbotronweberq {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    background-image: url(/img/directories/competitions/weberq.jpg)
+}
+#competition .jumbotroncrown {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    border-width: 2;
+    border-style: solid;
+    border-color: #86b5b1;
+    height: 220px;
+    margin-bottom: 0;
+    background-image: url(/img/directories/competitions/crown.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
+#competition form {
+    padding-left: 1em
+}
+#competition form label {
+    width: 6.5em;
+    font-size: .9em;
+    font-weight: 300
+}
+#competition input,
+#competition select {
+    width: 100%;
+    border: 1px solid #86b5b1;
+    padding: .5em;
+    font-size: .9em;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px
+}
+#competition .form-group {
+    margin-bottom: .5em
+}
+#competition .input-group-addon {
+    background-color: transparent;
+    border: none;
+    padding-left: 0;
+    font-size: 1em;
+    text-align: left
+}
+#competition .submit {
+    text-align: right
+}
+#competition .btn-success {
+    color: #fff;
+    background-color: #0d6b63;
+    border-color: #0a564f
+}
+#competition .btn-success.active,
+#competition .btn-success:active,
+#competition .btn-success:focus,
+#competition .btn-success:hover,
+#competition .open>.dropdown-toggle.btn-success {
+    color: #fff;
+    background-color: #13988d;
+    border-color: #0a564f
+}
+#competition .btn-success.active,
+#competition .btn-success:active,
+#competition .open>.dropdown-toggle.btn-success {
+    background-image: none
+}
+@media (max-width: 480px) {
+    #competition .input-group .form-control,
+    #competition .input-group-addon,
+    #competition .input-group-btn {
+        display: block;
+        clear: both;
+        white-space: normal;
+        width: 100%
+    }
+    #competition .test {
+        margin-bottom: .5em
+    }
+    #competition .input-group {
+        display: block
+    }
+    #competition .submit {
+        text-align: center
+    }
+}
+#competition .terms input[type=checkbox] {
+    width: 1.3em;
+    height: 1.3em;
+    vertical-align: bottom
+}
+#competition .terms {
+    font-size: .9em;
+    font-weight: 300
+}
+#competition input:focus,
+#competition textarea:focus {
+    outline: 0
+}
+#competition input[type=submit] {
+    background-color: #0d6b63;
+    border: 1px solid #86b5b1;
+    padding: .5em;
+    font-size: 1.2em;
+    color: #fff;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px 10px 10px 10px;
+    -o-border-radius: 10px;
+    width: 8em
+}
+#competition input.error {
+    background-color: #c2dad8
+}
+#competition .error {
+    white-space: nowrap
+}
+#competition #terms-conditions-error {
+    display: none!important
+}
+.modal .modal-body {
+    max-height: 420px;
+    overflow-y: auto
+}

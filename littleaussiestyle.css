@@ -1,0 +1,264 @@
+@font-face {
+    font-family: 'OzHandicraftBT-Roman';
+    src: url('/fonts/295B92_0_0.eot');
+    src: url('/fonts/295B92_0_0.eot?#iefix') format('embedded-opentype'), url('/fonts/295B92_0_0.woff') format('woff'), url('/fonts/295B92_0_0.ttf') format('truetype');
+}
+body {
+    font-size: 16px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+#header {
+    color: #fff;
+    background: url('/img/directories/bayswater.jpg') no-repeat left center;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 1.875em .625em 1.5625em .625em;
+}
+#header .directory-name,
+#header .directory-suburbs {
+    text-shadow: .0625em .0625em #000;
+}
+#header .directory-name {
+    font-size: 2.625em;
+    line-height: 1.25;
+    display: block;
+}
+#header .directory-suburbs {
+    font-size: 1.5em;
+}
+#nav {
+    min-height: 0;
+    margin-bottom: 2.5em;
+}
+#nav .dropdown-toggle {
+    cursor: pointer;
+}
+#nav .navbar-brand {
+    margin-top: .3125em;
+}
+#nav button {
+    margin: .625em .125em 0 .125em;
+    background-color: transparent;
+}
+#nav img {
+    margin: .625em .125em 0 0;
+}
+#nav a {
+    padding: .625em .9375em .625em .9375em;
+    color: #fff;
+    letter-spacing: .0625em;
+}
+#nav a:hover,
+#nav a:focus,
+#nav .navbar-nav>.active>a,
+#nav .navbar-nav>.open>a {
+    background-color: #540f50;
+}
+#nav,
+.dropdown-menu {
+    background-color: #771674;
+}
+.nav-tabs {
+    background: #771674;
+    border-radius: .625em .625em 0 0;
+    -webkit-border-radius: .625em .625em 0 0;
+    -moz-border-radius: .625em .625em 0 0;
+    -ms-border-radius: .625em .625em 0 0;
+    -o-border-radius: .625em .625em 0 0;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #771674;
+    height: 35px;
+}
+.nav-tabs li {
+    width: 50%;
+    height: 35px;
+}
+.nav>li>a {
+    padding: 5px;
+    padding-left: 10px;
+}
+.nav-tabs>li>a:link {
+    border: 1px solid #771674;
+    background: #771674;
+    color: #fff;
+    letter-spacing: .0625em;
+    font-size: 16px;
+    height: 35px;
+}
+.nav-tabs>li>a:hover {
+    border: 1px solid #540f50;
+    background: #540f50;
+    color: #fff;
+}
+.nav-tabs>li.active>a:link {
+    border: 1px solid #540f50;
+    background: #540f50;
+    color: #fff;
+}
+.tab-content {
+    border-radius: 0 0 .625em .625em;
+    -webkit-border-radius: 0 0 .625em .625em;
+    -moz-border-radius: 0 0 .625em .625em;
+    -ms-border-radius: 0 0 .625em .625em;
+    -o-border-radius: 0 0 .625em .625em;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #771674;
+}
+.tab-content ul {
+    padding: 0;
+    list-style: none;
+    padding-top: 5px;
+}
+.tab-content a {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: block;
+    font-size: .9em;
+    text-decoration: none;
+}
+.tab-content a:hover {
+    background: #eee;
+}
+@media(max-width:320px) {
+    .intro-row {
+        height: 440px;
+    }
+}
+@media(min-width:320px) and (max-width:500px) {
+    .intro-row {
+        height: 360px;
+    }
+}
+@media(min-width:500px) and (max-width:1200px) {
+    .intro-row {
+        height: 250px;
+    }
+}
+@media(min-width:1200px) and (max-width:1700px) {
+    .intro-row {
+        height: 340px;
+    }
+}
+@media(min-width:1700px) {
+    .intro-row {
+        height: 260px;
+    }
+}
+#intro-competition {
+    text-align: center;
+}
+#intro-competition h1 {
+    font-size: 2em;
+    font-weight: 600;
+    margin-top: .2em;
+    margin-bottom: .2em;
+}
+#intro-competition h2 {
+    color: #f37021;
+    font-weight: 600;
+    font-size: 1.4em;
+}
+#intro {
+    margin-top: 1em;
+}
+#intro h1 {
+    margin-top: 1em;
+    font-size: 1.625em;
+    color: #771674;
+    margin-bottom: .625em;
+}
+#intro h2 {
+    font-size: 1.125em;
+    font-weight: 900;
+}
+#intro p {
+    font-size: 1.125em;
+    margin-bottom: .75em;
+}
+#intro img {
+    width: 100%;
+}
+.panel-title {
+    font-size: 1.25em;
+    color: #fff;
+}
+.panel-business {
+    border-radius: .625em .625em .625em .625em;
+    -webkit-border-radius: .625em .625em .625em .625em;
+    -moz-border-radius: .625em .625em .625em .625em;
+    -ms-border-radius: .625em .625em .625em .625em;
+    -o-border-radius: .625em .625em .625em .625em;
+    border-width: .0625em;
+    border-style: solid;
+    border-color: #f37021;
+}
+.panel-business .panel-heading {
+    border-radius: .625em .625em 0 0;
+    -webkit-border-radius: .625em .625em 0 0;
+    -moz-border-radius: .625em .625em 0 0;
+    -ms-border-radius: .625em .625em 0 0;
+    -o-border-radius: .625em .625em 0 0;
+    border-width: .0625em;
+    border-style: solid;
+    border-color: #f37021;
+    background-color: #f37021;
+}
+.panel-community {
+    border-radius: .625em .625em .625em .625em;
+    -webkit-border-radius: .625em .625em .625em .625em;
+    -moz-border-radius: .625em .625em .625em .625em;
+    -ms-border-radius: .625em .625em .625em .625em;
+    -o-border-radius: .625em .625em .625em .625em;
+    border-width: .0625em;
+    border-style: solid;
+    border-color: #009beb;
+}
+.panel-community .panel-heading {
+    border-radius: .625em .625em 0 0;
+    -webkit-border-radius: .625em .625em 0 0;
+    -moz-border-radius: .625em .625em 0 0;
+    -ms-border-radius: .625em .625em 0 0;
+    -o-border-radius: .625em .625em 0 0;
+    border-width: .0625em;
+    border-style: solid;
+    border-color: #009beb;
+    background-color: #009beb;
+}
+.panel-features {
+    border-radius: .625em .625em .625em .625em;
+    -webkit-border-radius: .625em .625em .625em .625em;
+    -moz-border-radius: .625em .625em .625em .625em;
+    -ms-border-radius: .625em .625em .625em .625em;
+    -o-border-radius: .625em .625em .625em .625em;
+    border-width: .0625em;
+    border-style: solid;
+    border-color: #2f98a1;
+}
+.panel-features .panel-heading {
+    border-radius: .625em .625em 0 0;
+    -webkit-border-radius: .625em .625em 0 0;
+    -moz-border-radius: .625em .625em 0 0;
+    -ms-border-radius: .625em .625em 0 0;
+    -o-border-radius: .625em .625em 0 0;
+    border-width: .0625em;
+    border-style: solid;
+    border-color: #2f98a1;
+    background-color: #2f98a1;
+}
+#footer {
+    font-size: .875em;
+    margin-bottom: .625em;
+}
